@@ -1,4 +1,4 @@
-### Independent Project - Data Preparation and Analysis
+### Data Preparation and Analysis
 
 **Project Overview**:  
 In this project, I prepared and transformed data to facilitate analysis. My objectives included cleaning data, selecting features, and performing data transformations to create a dataset suitable for analysis.
