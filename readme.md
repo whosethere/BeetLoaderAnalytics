@@ -1,8 +1,7 @@
-
 ### Independent Project - Data Preparation and Analysis
 
 **Project Overview**:  
-In this project, I focused on preparing and transforming data to facilitate efficient analysis. My objectives included cleaning data, selecting relevant features, and performing data transformations to create a robust dataset suitable for in-depth analysis.
+In this project, I prepared and transformed data to facilitate analysis. My objectives included cleaning data, selecting features, and performing data transformations to create a dataset suitable for analysis.
 
 **Implementation Details**:  
 **Files**:  
@@ -10,14 +9,14 @@ In this project, I focused on preparing and transforming data to facilitate effi
 - `src/transform_raw_data_beetloader.py (--input raw_data_beetloader.csv)` - A Python script I developed to transform the raw data.
 
 **Project Description**:  
-The transformed dataset includes key features necessary for comprehensive analysis, with additional attributes to provide deeper insights. I designed the features to be easily modifiable. For example, the script allows for toggling the inclusion or exclusion of records with missing values (lines 96 and 98), depending on analytical needs.
+The transformed dataset includes features necessary for analysis, with attributes to provide insights. I designed the features to be modifiable. For example, the script allows for toggling the inclusion or exclusion of records with missing values (lines 96 and 98), depending on analytical needs.
 
 ---
 
 ### Data Exploration and Comparative Analysis
 
 **Project Overview**:  
-I conducted an exploratory data analysis (EDA) to uncover insights from the `beetloader_processed.csv` and `trucks.csv` datasets. Furthermore, I compared these datasets to assess their compatibility and the potential for integrated analysis.
+I conducted an exploratory data analysis (EDA) to uncover insights from the `beetloader_processed.csv` and `trucks.csv` datasets. I compared these datasets to assess their compatibility and the potential for integrated analysis.
 
 **Implementation Details**:  
 **File**:  
@@ -31,7 +30,7 @@ The EDA was crucial for understanding the datasets and preparing them for furthe
 ### Comparative Analysis and Model Evaluation
 
 **Project Overview**:  
-This part of my project involved comparing two datasets: the beet loader and trucks datasets. I developed a methodology to effectively combine and analyze them, evaluating the potential for creating a unified model.
+This part of my project involved comparing two datasets: the beet loader and trucks datasets. I developed a methodology to combine and analyze them, evaluating the potential for creating a unified model.
 
 **Implementation Details**:  
 **File**:  
@@ -49,11 +48,8 @@ I presented my findings to a group of peers and advisors, simulating a stakehold
 
 **Implementation Details**:  
 **Files**:  
-- `conclusions/conclusions.ipynb` - Analysis and conclusions drawn from the raw data.
+- `conclusions/conclusions.ipynb` - Analysis and conclusions drawn from the raw data.  
 - `conclusions/model_evaluation.csv` - Contains comparison results between the model and the trucks dataset data.
 
 **Project Description**:  
 Based on specific analytical assumptions, I formulated conclusions regarding the model's effectiveness. These were supplemented by additional considerations and proposed next steps for potential real-world application.
-
----
-
