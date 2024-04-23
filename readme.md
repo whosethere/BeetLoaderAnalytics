@@ -1,3 +1,6 @@
+**Note on Data Availability**:  
+Due to the proprietary nature of the datasets used in this project, I am unable to share the raw data publicly. I appreciate your understanding.
+
 ### Data Preparation and Analysis
 
 **Project Overview**:  
